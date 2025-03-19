@@ -13,12 +13,3 @@ let resultEven = (num % 2 === 0) ? ' y es par' : ' y es impar';
 
 alert(resultInRange + resultEven);
 
-/*
-let resultInRange = ''; 
-if (num >= lower_limit && num <= upper_limit) {
-    resultInRange = 'El numero está en rango';
-} else {
-    resultInRange = 'El numero no está en rango';
-}
-*/
-
