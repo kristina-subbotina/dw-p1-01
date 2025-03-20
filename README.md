@@ -15,7 +15,7 @@
 ```markdown
 ### Alumno: Kristina Subbotina
 
-#### Comision: DWN2AV 25-1
+#### Comision: DW202300 - Noche, AV
 ```
 
 - Subir los archivos `index.html`, `index.js` y `README.md`
